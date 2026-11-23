@@ -4,7 +4,7 @@
 ![OpenCore](https://img.shields.io/badge/Bootloader-OpenCore-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Daily%20Ready-brightgreen?style=flat-square)
 
-![Main Banner](1.png)
+![Main Banner](https://raw.githubusercontent.com/riffallday/Dell-5320-Hackintosh/main/1.png)
 
 ## 💻 Specifications
 | Component | Detail |
