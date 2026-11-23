@@ -19,6 +19,5 @@
 Smooth & daily-ready, almost all features work properly!
 
 ## 📸 Screenshots
-| About This Mac | Desktop Preview |
-| :---: | :---: |
-| ![About This Mac](https://github.com/riffallday/Dell-5320-Hackintosh/blob/bc5c0aad950b6d74520ca9ac270536da201acb00/Tangkapan%20Layar%202026-11-23%20pukul%2000.44.35.png) | ![Desktop](screenshots/desktop.png) |
+
+![Dell 5320 Hackintosh](https://raw.githubusercontent.com/riffallday/Dell-5320-Hackintosh/4e1a6a79b3194276b20e1bc5845ecbb1a761d961/1.png)
