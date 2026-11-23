@@ -4,7 +4,7 @@
 ![OpenCore](https://img.shields.io/badge/Bootloader-OpenCore-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Daily%20Ready-brightgreen?style=flat-square)
 
-![Main Banner](screenshots/banner.png)
+![Main Banner](1.png)
 
 ## 💻 Specifications
 | Component | Detail |
@@ -19,6 +19,3 @@
 Smooth & daily-ready, almost all features work properly!
 
 ## 📸 Screenshots
-
-![Dell 5320 Hackintosh](1.png)
-![Main Banner](1.png)
