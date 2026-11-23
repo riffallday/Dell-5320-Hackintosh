@@ -21,3 +21,4 @@ Smooth & daily-ready, almost all features work properly!
 ## 📸 Screenshots
 
 ![Dell 5320 Hackintosh](1.png)
+![Main Banner](1.png)
